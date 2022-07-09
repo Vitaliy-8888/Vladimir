@@ -1,0 +1,15 @@
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\bin\Debug\net6.0\Examples005.exe
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\bin\Debug\net6.0\Examples005.deps.json
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\bin\Debug\net6.0\Examples005.runtimeconfig.json
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\bin\Debug\net6.0\Examples005.dll
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\bin\Debug\net6.0\Examples005.pdb
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\obj\Debug\net6.0\Examples005.csproj.AssemblyReference.cache
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\obj\Debug\net6.0\Examples005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\obj\Debug\net6.0\Examples005.AssemblyInfoInputs.cache
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\obj\Debug\net6.0\Examples005.AssemblyInfo.cs
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\obj\Debug\net6.0\Examples005.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\obj\Debug\net6.0\Examples005.dll
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\obj\Debug\net6.0\refint\Examples005.dll
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\obj\Debug\net6.0\Examples005.pdb
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\obj\Debug\net6.0\Examples005.genruntimeconfig.cache
+C:\Users\Виталий\Geekbrains - TEST\Examples\Examples005\obj\Debug\net6.0\ref\Examples005.dll
